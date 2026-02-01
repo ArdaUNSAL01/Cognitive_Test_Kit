@@ -50,24 +50,21 @@ Follow these steps to run the application on your local machine:
 ### Prerequisites
 
 Make sure you have Python installed. You can check this by running:
-```bash
 python --version
-Installation & Usage
-Clone the repository:
-Bash
 
-git clone [https://github.com/your-username/cognitive-test-suite.git](https://github.com/your-username/cognitive-test-suite.git)
-Navigate to the project directory:
+### Installation & Usage
 
-Bash
+1. **Clone the repository:**
+git clone https://github.com/KULLANICI_ADIN/cognitive-test-suite.git
 
+
+2. **Navigate to the project directory:**
 cd cognitive-test-suite
-Run the application:
 
-Bash
 
+3. **Run the application:**
 python main.py
-(Note: Replace main.py with the actual name of your python file if it differs).
 
-👤 Author
-Arda ÜNSAL Psychology Student
+*(Note: Replace `main.py` with the actual name of your python file if it differs).*
+
+Author: Arda ÜNSAL
